@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cat-3515_jpg.rf.99849d1961c6b561f71ef06daba286e5.jpg</filename>
+	<path>cat-3515_jpg.rf.99849d1961c6b561f71ef06daba286e5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>203</xmin>
+			<xmax>507</xmax>
+			<ymin>68</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>
