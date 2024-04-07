@@ -1,6 +1,6 @@
 # Animal Deterrence System
 
-This project implements a real-time animal deterrence system using a Raspberry Pi 4b to run the EfficientDet0 object detection TensorFlow Lite Model. The model was transformed with additional dataset of cats from kaggle to improve the model's accuracy at identifying cats.
+This project implements a real-time animal deterrence system using a Raspberry Pi 4b to run the EfficientDet0 object detection TensorFlow Lite Model. The model was transformed with an additional dataset of cats from kaggle to improve the model's accuracy at identifying cats.
 <p align="center">
   <img alt="Project Overview" src="project_overview.png"/>
 </p>
@@ -11,5 +11,5 @@ Roboflow was used to resize the images to 640x480 pixels to match the COCO 2017 
 </p>
 Model Test
 <p align="center">
-  <img alt="Model Test" src="cat.png"/>
+  <img alt="Model Test" src="cat.PNG"/>
 </p>
