@@ -11,6 +11,7 @@ Roboflow was used to resize the images to 640x480 pixels to match the COCO 2017 
   <img alt="Tranformed cat dataset" src="roboflow.png"/>
 </p>
 Model Test
+!["Model Test"]("cat.PNG")
 <p align="center">
   <img alt="Model Test" src="cat.PNG"/>
 </p>
