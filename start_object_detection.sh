@@ -1,16 +1,15 @@
 #!/bin/bash
 
 # Raspberry Pi Object Detection Startup Script
-# This script activates the TensorFlow Lite environment and runs object detection
 
 # Add logging
 LOG_FILE="/home/pi/object_detection_startup.log"
 echo "$(date): Starting object detection script" >> $LOG_FILE
 
-# Wait for the system to fully boot (optional, but recommended for headless systems)
+# Wait for the system to fully boot
 sleep 10
 
-# Change to the home directory (adjust if your setup is different)
+# Change to the home directory
 cd /home/pi
 
 # Activate the TensorFlow Lite virtual environment
